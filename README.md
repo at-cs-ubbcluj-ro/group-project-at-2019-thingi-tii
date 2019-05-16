@@ -1,24 +1,5 @@
-Please use this repository to maintain your work for the team project.
+The purpose of the project is to monitor the air quality conditions in an office.
 
-Also please fill the following details:
+So far we have linked a Carbon Monoxide Sensor to an arduino and read the output values. We have used the following tutorial in order to get things running: http://www.learningaboutelectronics.com/Articles/MQ-7-carbon-monoxide-sensor-circuit-with-arduino.php and ...
 
-- Team name:
-- Students (SCS username - Name):
-
-Project idea:
-
-=============
-
-Due: last laboratory.
-	Either May 16th or May 23rd, depending on your laboratory frequency.
-	Please note that we are obeying the faculty student group assignments.
-Details:
-- A team of 4 or 5 students to tackle a real-world problem.
-- Choose an existing project proposed by the lab instructor.
-- Define a new one, together with the lab instructor.
-Expected outcome:
-- The source code should be hosted in this github classroom repository.
-- A webpage presenting the project results, similar to:
-	https://androidthings.withgoogle.com/#!/samples/doorbell
-- A short video presenting the results.
-
+![Demo Image ](https://github.com/at-cs-ubbcluj-ro/group-project-at-2019-thingi-tii/blob/master/circuits.npg?raw=true "Demo Image")
